@@ -1,4 +1,2 @@
-Install
-===
-How to install **blinkBrew** to your **Blinkbox**?
-
+# What is BlinkBrew
+**BlinkBrew** –– tool for developers to manage packages, configurate kernal, or run unsinged code.
