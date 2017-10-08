@@ -1,3 +1,4 @@
 Install
 ===
-How to install **blinkBrew** to 
+How to install **blinkBrew** to your **Blinkbox**?
+
