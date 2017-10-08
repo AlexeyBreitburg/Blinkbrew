@@ -1,3 +1,3 @@
-What is **BlinkBrew**? –– tool for developers to manage `blink-packages`, configurate kernal, or run unsinged code.
+Что такое **BlinkBrew** –– это универсальное средство для разработчиков позволяющее управлять **blink-пакетами**, выполнять неподписанный код на консоли а также модифицировать системные файлы **BlinkSystem**.
 
-What is **Blink-Packages**? –– An archive zip `(.zbg)` of tar `(.tbg)` containing the module files and a configuration file with information about the package.
+Что такое **Blink-пакеты** –– это архив типа `(.zip)` имеющее расширение `(.bpkg)` содержащее файл конфигурации пакета, и скрипты на Python нужные для выполнения основной функции пакета. Также допускается возможность добавлять какие-то дополнительные файлы например которые требуются для работы скриптов.
