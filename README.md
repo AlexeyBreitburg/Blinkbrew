@@ -1,2 +1,2 @@
-# blinkBrew
+# Install
 Homebrew for blinkSystem. 
